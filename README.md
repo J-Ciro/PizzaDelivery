@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# Space Website | Workshop Lading Page React
+## Miembros del equipo
+Valentina Jimenez Salazar: @valentinasj 
+Juan Esteban Ciro: @J-Ciro 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Descripción del desarrollo
+1. Exigencias del proyecto:
+![image](https://github.com/valentinasj/Workshop-Pizzas/assets/37349818/f1c7399e-57c2-41f4-aa57-b904d80eecba)
 
-## Available Scripts
+2. Para trabajar de manera colaborativa @valentinasj  creo el repositorio y a @J-Ciro se le asigno como colaborador desde GitHub.
 
-In the project directory, you can run:
+## Desarrollo del trabajo:
+- @valentinasj  y @J-Ciro trabajaron de manera conjunta para realizar los estilos y maquetacion del Login
+- @valentinasj  Realizo el desarrollo tanto de estilos y logica para las paginas y componentes Detalles de la Pizza, Compra de la Pizza, Animaciones, Formulario de compra, compra exitosa y validaciones.
+- @J-Ciro  Realizo el desarrollo tanto de estilos y logica para las paginas y componentes de Registro, Home, Cards de Pizzas, Filtro de busqueda, Barra de usuario y Navbar.
 
-### `npm start`
+## Estructura de carpetas
+![image](https://github.com/valentinasj/Workshop-Pizzas/assets/37349818/d173c25b-456e-4a1a-b5f8-273a6a43eb46)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Mobile
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![mobile (7)](https://github.com/valentinasj/Workshop-Pizzas/assets/37349818/e583edd7-4d46-4435-9fe0-06c7a02a8367)
+![mobile (8)](https://github.com/valentinasj/Workshop-Pizzas/assets/37349818/a4365b9c-0b88-4fbd-b9e3-08acf261dae3)
+![mobile (9)](https://github.com/valentinasj/Workshop-Pizzas/assets/37349818/ee129ddf-55f8-4ed9-b3af-6ca5527d5da3)
+![mobile (10)](https://github.com/valentinasj/Workshop-Pizzas/assets/37349818/9a490658-7fd3-4c0e-989f-156062eef677)
+![mobile (11)](https://github.com/valentinasj/Workshop-Pizzas/assets/37349818/4df007c8-316e-4d83-81d3-6e27afbc1a95)
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
